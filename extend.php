@@ -1,6 +1,6 @@
 <?php
 
-namespace CodeStew\CodeLearn;
+namespace codestew\codelearn;
 
 use Flarum\Extend;
 use Flarum\Frontend\Document;

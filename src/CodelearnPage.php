@@ -1,5 +1,5 @@
 <?php
-namespace CodeStew\CodeLearn;
+namespace codestew\codelearn;
 
 use Flarum\Frontend\Document;
 use Psr\Http\Message\ServerRequestInterface as Request;
